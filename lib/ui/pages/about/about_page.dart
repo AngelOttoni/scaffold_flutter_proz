@@ -21,7 +21,7 @@ class AboutPage extends StatelessWidget {
             ),
             SizedBox(
               height: 200,
-              child: SvgPicture.asset("assets/images/about.svg"),
+              child: SvgPicture.asset("./assets/images/about.svg"),
             ),
             Padding(
               padding: const EdgeInsets.symmetric(vertical: 16),
